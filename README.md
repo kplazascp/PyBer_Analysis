@@ -13,7 +13,7 @@ The analysis focused in determining the behaviour of rideshares in three differe
 In this image we can see the summary of our Dataframe. The Urban cities have 2.6 times more total rides than the Suburban cities and 13 times more rides than the Rural cities. 
 Also, the amount of total drivers that are in Urban cities are almost five times larger than the amount of total drivers in Suburban cities, for the Rural cities the amounth of total divers are 30 times less that the amount of total drivers in Urban cities.
 
-![Fare_summary](https://github.com/kplazascp/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
+![Fare_summary](https://github.com/kplazascp/PyBer_Analysis/blob/main/PyBer_fare_Summary.png)
 
 
 
